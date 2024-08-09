@@ -24,6 +24,18 @@ Es el encargado de procesar las solicitudes en la cola y  las ejecutan en la bas
 
 La base de datos SQL que almacena la información.
 
+---
+### 2. Encriptar tu mensaje
+
+[Encrypt message file](https://github.com/MikelSot/prueba-tecnica-Think/blob/main/encryptmessage.go)
+
+---
+
+### 3. Suma a cero
+
+[Zero sum file](https://github.com/MikelSot/prueba-tecnica-Think/blob/main/zerosum.go)
+
+---
 ### 4.  Aprendizaje
 ![Diagrama Aprendizaje](./assets/reto-4.png)
 
@@ -51,7 +63,7 @@ Cada microservicio tiene su propia base de datos, lo que es una práctica recome
 
 Es un componente que permite la comunicación asíncrona entre microservicios. Los microservicios pueden enviar y recibir mensajes a través del Message Broker.
 
-
+---
 ### 5.  Demostracion de hallazgos
 
 En este nuevo sistema, todo se hace más rápido porque cada servicio se concentra en su tarea específica. 
